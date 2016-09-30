@@ -11,8 +11,6 @@ public class Main {
         System.out.println("22 in pocket");
 
         SimpleClass sc = new SimpleClass();
-        sc.setBounds(100,100,100,100);
-        sc.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        sc.setVisible(true);
+
     }
 }
