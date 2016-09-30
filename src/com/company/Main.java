@@ -14,5 +14,7 @@ public class Main {
         sc.setBounds(100,100,100,100);
         sc.setDefaultCloseOperation(EXIT_ON_CLOSE);
         sc.setVisible(true);
+        
+        System.out.println("Ops");
     }
 }
