@@ -14,7 +14,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         System.out.println("Hello");
-        System.out.println("22 in pocket");
+        System.out.println("22 in pocket!");
 
         SimpleClass sc = new SimpleClass();
         SecondImplementClass sic = new SecondImplementClass();
@@ -70,11 +70,6 @@ public class Main {
                 return 0;
             }
         });
-        
-        //11
 
-        //22
-
-        //Commit to check the state
     }
 }
