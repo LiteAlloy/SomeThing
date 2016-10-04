@@ -15,4 +15,8 @@ public class SecondImplementClass extends SecondClass {
     public void getIt(Duration duration) {
         System.out.println("Geting!");
     }
+
+    public void num() {
+        int a = 4 + 3;
+    }
 }
