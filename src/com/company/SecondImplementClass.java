@@ -17,6 +17,5 @@ public class SecondImplementClass extends SecondClass {
     }
 
     public void num() {
-        int a = 0;
     }
 }
